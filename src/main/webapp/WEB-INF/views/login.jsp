@@ -8,5 +8,7 @@
 </head>
 <body>
     <h2>My First JSP</h2>
+    <br />
+    <h4>Name in Query String is: ${name}</h4>
 </body>
 </html>
